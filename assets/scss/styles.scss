@@ -1,0 +1,38 @@
+@import "./buttons";
+@import "./variables";
+
+nav {
+  background-color: $colore-sfondo;
+  display: flex;
+  justify-content: space-around;
+  padding: {
+    top: 3vh;
+    bottom: 3vh;
+  }
+
+  .btn-primary {
+    display: block;
+    background-color: $colore-bottoni;
+  }
+}
+
+ul {
+  display: inline;
+  margin-top: 2vh;
+  li {
+    list-style: none;
+    display: inline;
+    margin-right: 5vh;
+  }
+}
+
+main {
+  height: 100vh;
+}
+
+img {
+  margin: {
+    top: 4vh;
+    left: 4vh;
+  }
+}

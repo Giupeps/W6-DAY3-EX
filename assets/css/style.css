@@ -1,3 +1,35 @@
+button {
+  margin-left: 3vh;
+  margin-top: 3vh;
+}
 
+nav {
+  background-color: #00ffff;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+}
+nav .btn-primary {
+  display: block;
+  background-color: #113a3a;
+}
 
-/*# sourceMappingURL=style.css.map */
+ul {
+  display: inline;
+  margin-top: 2vh;
+}
+ul li {
+  list-style: none;
+  display: inline;
+  margin-right: 5vh;
+}
+
+main {
+  height: 100vh;
+}
+
+img {
+  margin-top: 4vh;
+  margin-left: 4vh;
+}
