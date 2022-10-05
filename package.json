@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "sass": "^1.55.0"
+  },
+  "name": "w6-day3-ex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "sass assets/scss/styles.scss assets/css/style.css -w --no-source-map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giupeps/W6-DAY3-EX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giupeps/W6-DAY3-EX/issues"
+  },
+  "homepage": "https://github.com/Giupeps/W6-DAY3-EX#readme",
+  "description": ""
+}
