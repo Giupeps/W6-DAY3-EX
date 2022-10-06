@@ -10,18 +10,18 @@ nav {
   padding-top: 3vh;
   padding-bottom: 3vh;
 }
-nav .btn-primary {
-  background-color: #113a3a;
-}
-
-ul {
+nav ul {
   display: inline;
   margin-top: 2vh;
 }
-ul li {
+nav ul li {
   list-style: none;
   display: inline;
   margin-right: 5vh;
+}
+
+.btn-primary {
+  background-color: #113a3a;
 }
 
 main {
